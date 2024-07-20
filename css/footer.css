@@ -1,0 +1,55 @@
+footer {
+  background: #faf7ff 0% 0% no-repeat padding-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.footer-container {
+  display: flex;
+  gap: 100px;
+
+  border-top: 1px solid #cbd5f9;
+  border-bottom: 1px solid #cbd5f9;
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+.tr {
+  width: 270px;
+}
+
+.head {
+  font-size: 21px;
+  color: #000964;
+  margin-bottom: 40px;
+}
+
+.footer-text {
+  margin-top: 40px;
+  font-size: 18px;
+  color: #502eff;
+  line-height: 27px;
+}
+
+.spaced {
+  line-height: 40px;
+}
+
+.line {
+  background-color: black;
+  height: 4px;
+  border: 0;
+}
+
+.agency-logo-footer {
+  margin-top: 12px;
+}
+
+.indianpix{
+    color: #502EFF;
+    font-size: 20px;
+    margin-top: 60px;
+}

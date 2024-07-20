@@ -1,0 +1,42 @@
+.contact-us-section {
+  text-align: center;
+  padding-top: 160px;
+  padding-bottom: 160px;
+}
+
+.contact-us-text {
+  font-size: 30px;
+  color: #cbd5f9;
+  margin-bottom: 10px;
+}
+
+.question-text {
+  font-size: 42px;
+  color: #502eff;
+  font-weight: 500;
+  margin-bottom: 60px;
+}
+::placeholder {
+  color: #502eff;
+}
+input {
+  color: #502eff;
+  border-radius: 100px;
+  border: solid 3px;
+  padding: 20px;
+  padding-right: 80px;
+  padding-left: 40px;
+  margin-right: 10px;
+}
+
+.start-button {
+  color: white;
+  font-size: 20px;
+  background-color: #502eff;
+  margin-left: 10px;
+  padding: 10px 50px;
+  border: none;
+  border-radius: 30px;
+  box-shadow: 0px 20px 30px #00000029;
+  cursor: pointer;
+}

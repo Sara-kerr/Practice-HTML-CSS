@@ -1,0 +1,128 @@
+.white-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 136px;
+  overflow-x: hidden;
+}
+
+.meet-the-team-text {
+  color: #bebebe;
+  font-size: 30px;
+  font-family: Inter;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 200px;
+  margin-bottom: 20px;
+}
+
+.great-outcome-text {
+  color: #502eff;
+  font-size: 58px;
+  font-family: Inter;
+  font-weight: 400;
+  text-align: center;
+  width: 758px;
+  margin: auto;
+}
+
+.team-text {
+  text-shadow: 0px 3px 6px #00000029;
+  opacity: 0.1;
+  font-family: Inter;
+  font-weight: bolder;
+  font-size: 300px;
+
+  display: inline-block;
+  top: 0;
+  left: -550px;
+  position: relative;
+  letter-spacing: -5.92px;
+  opacity: 0.03;
+  z-index: -1;
+}
+.purple-dots-container {
+  position: absolute;
+  top: 4100px;
+  left: 1417px;
+  width: 471px;
+  height: 465px;
+  overflow: hidden;
+}
+
+.team-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -195px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.staff-name {
+  margin-top: 18px;
+  margin-bottom: 14px;
+  letter-spacing: -0.6px;
+  color: #502eff;
+  font-family: Inter;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.standard-screen-text {
+  letter-spacing: -0.44px;
+  color: #bebebe;
+  font-family: Inter;
+  font-weight: 300;
+  font-size: 22px;
+  margin-bottom: 35px;
+}
+
+.box {
+  width: 460px;
+  min-height: 634px;
+  position: relative;
+  margin: 25px;
+  box-shadow: 0px 25px 38px #00000029;
+}
+
+.box1 {
+  background-color: #ffc5b8;
+}
+.box2 {
+  background-color: #ff5630;
+}
+.box3 {
+  background-color: #3f4863;
+  overflow: hidden;
+}
+.staf {
+  position: absolute;
+  bottom: 0;
+}
+
+.socials {
+  display: flex;
+  justify-content: space-between;
+  width: 229px;
+  height: 27px;
+  opacity: 0.4;
+}
+
+.lets-catch-button {
+  color: white;
+  font-family: Inter;
+  font-size: 25px;
+  width: 350px;
+  height: 70px;
+  border-radius: 50px;
+  border: none;
+  background-color: #502eff;
+  box-shadow: 0px 20px 30px #00000029;
+  margin-top: 136px;
+}
